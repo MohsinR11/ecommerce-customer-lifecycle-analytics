@@ -104,19 +104,19 @@ Ecommerce-Customer-Analytics/
 ## 📊 Power BI Dashboard — Pages Overview
 
 ### 🟦 Page 1 — Overview & KPIs
-![Page 1 — Overview](outputs/page1_overview.png)
+![Page 1 — Overview](6 - Outputs/Overview.png)
 
 ### 🟩 Page 2 — Customer Segmentation & Behavior
-![Page 2 — Segmentation](outputs/page2_segmentation.png)
+![Page 2 — Segmentation](6 - Outputs/Segmentation.png)
 
 ### 🟨 Page 3 — Retention & Cohort Analysis
-![Page 3 — Retention](outputs/page3_retention.png)
+![Page 3 — Retention](6 - Outputs/Retention.png)
 
 ### 🟥 Page 4 — Revenue Cohorts & LTV
-![Page 4 — LTV](outputs/page4_ltv.png)
+![Page 4 — LTV](6 - Outputs/LTV.png)
 
 ### 🟪 Page 5 — Insights & Business Recommendations
-![Page 5 — Insights](outputs/page5_insights.png)
+![Page 5 — Insights](6 - Outputs/Insights.png)
 
 ---
 
