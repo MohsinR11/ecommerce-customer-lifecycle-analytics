@@ -104,19 +104,19 @@ Ecommerce-Customer-Analytics/
 ## 📊 Power BI Dashboard — Pages Overview
 
 ### 🟦 Page 1 — Overview & KPIs
-![Page 1 — Overview](6 - Outputs/Overview.png)
+![Page 1 — Overview](https://github.com/MohsinR11/ecommerce-customer-lifecycle-analytics/blob/main/6%20-%20Outputs/Overview.png)
 
 ### 🟩 Page 2 — Customer Segmentation & Behavior
-![Page 2 — Segmentation](6 - Outputs/Segmentation.png)
+![Page 2 — Segmentation](https://github.com/MohsinR11/ecommerce-customer-lifecycle-analytics/blob/main/6%20-%20Outputs/Segmentation.png)
 
 ### 🟨 Page 3 — Retention & Cohort Analysis
-![Page 3 — Retention](6 - Outputs/Retention.png)
+![Page 3 — Retention](https://github.com/MohsinR11/ecommerce-customer-lifecycle-analytics/blob/main/6%20-%20Outputs/Retention.png)
 
 ### 🟥 Page 4 — Revenue Cohorts & LTV
-![Page 4 — LTV](6 - Outputs/LTV.png)
+![Page 4 — LTV](https://github.com/MohsinR11/ecommerce-customer-lifecycle-analytics/blob/main/6%20-%20Outputs/LTV.png)
 
 ### 🟪 Page 5 — Insights & Business Recommendations
-![Page 5 — Insights](6 - Outputs/Insights.png)
+![Page 5 — Insights](https://github.com/MohsinR11/ecommerce-customer-lifecycle-analytics/blob/main/6%20-%20Outputs/Insights.png)
 
 ---
 
