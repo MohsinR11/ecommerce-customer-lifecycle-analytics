@@ -122,3 +122,13 @@ Ecommerce-Customer-Analytics/
 
 ## 🙌 Author
 This project was designed as a **real-world, business-focused analytics case study** for startup and SME environments, demonstrating practical decision-driven data analysis instead of surface-level dashboards.
+
+---
+
+---
+
+## 👤 Author & Contact
+
+**Mohsin Raza - Data Analyst**  
+Email: mohsinansari1799@email.com  
+LinkedIn: https://www.linkedin.com/in/mohsinraza-data/
