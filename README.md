@@ -1,4 +1,4 @@
-# Customer Lifecycle & Revenue Analytics — End-to-End Project
+# Customer Lifecycle & Revenue Analytics - End-to-End Project
 
 ## 📌 Project Overview
 This project analyzes customer retention, purchasing behavior, cohort performance, and lifetime revenue dynamics for an e-commerce business. The goal is to identify when customers churn, how value accumulates over time, and which stages of the lifecycle drive the highest economic impact, enabling better retention, growth, and monetization decisions.
