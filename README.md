@@ -101,7 +101,7 @@ Ecommerce-Customer-Analytics/
 
 ---
 
-## 📊 Power BI Dashboard — Pages Overview
+## 📊 Power BI Dashboard - Pages Overview
 
 ### 🟦 Page 1 - Overview & KPIs
 ![Page 1 - Overview](https://github.com/MohsinR11/ecommerce-customer-lifecycle-analytics/blob/main/6%20-%20Outputs/Overview.png)
