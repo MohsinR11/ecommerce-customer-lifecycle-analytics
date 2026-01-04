@@ -127,8 +127,8 @@ This project was designed as a **real-world, business-focused analytics case stu
 
 ---
 
-## 👤 Author & Contact
-
-**Mohsin Raza - Data Analyst**  
-Email: mohsinansari1799@email.com  
-LinkedIn: https://www.linkedin.com/in/mohsinraza-data/
+<p align="center">
+  <b>Built by Mohsin  (Data Analyst)</b><br>
+  📧 mohsinansari1799@email.com &nbsp;|&nbsp;
+  🔗 <a href="https://www.linkedin.com/in/mohsinraza-data/">LinkedIn Profile</a>
+</p>
