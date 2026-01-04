@@ -101,5 +101,24 @@ Ecommerce-Customer-Analytics/
 
 ---
 
+## 📊 Power BI Dashboard — Pages Overview
+
+### 🟦 Page 1 — Overview & KPIs
+![Page 1 — Overview](outputs/page1_overview.png)
+
+### 🟩 Page 2 — Customer Segmentation & Behavior
+![Page 2 — Segmentation](outputs/page2_segmentation.png)
+
+### 🟨 Page 3 — Retention & Cohort Analysis
+![Page 3 — Retention](outputs/page3_retention.png)
+
+### 🟥 Page 4 — Revenue Cohorts & LTV
+![Page 4 — LTV](outputs/page4_ltv.png)
+
+### 🟪 Page 5 — Insights & Business Recommendations
+![Page 5 — Insights](outputs/page5_insights.png)
+
+---
+
 ## 🙌 Author
 This project was designed as a **real-world, business-focused analytics case study** for startup and SME environments, demonstrating practical decision-driven data analysis instead of surface-level dashboards.
